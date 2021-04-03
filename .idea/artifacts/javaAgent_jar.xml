@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaAgent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaAgent_jar</output-path>
+    <root id="archive" name="javaAgent.jar">
+      <element id="module-output" name="javaAgent" />
+    </root>
+  </artifact>
+</component>

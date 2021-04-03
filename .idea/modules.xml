@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/javaAgent/javaAgent.iml" filepath="$USER_HOME$/javaAgent/javaAgent.iml" />
+      <module fileurl="file://$USER_HOME$/javaAgentTest/javaAgentTest.iml" filepath="$USER_HOME$/javaAgentTest/javaAgentTest.iml" />
+    </modules>
+  </component>
+</project>
